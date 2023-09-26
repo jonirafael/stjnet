@@ -1,0 +1,850 @@
+[
+  {
+    "id": 1,
+    "Name": "PT. PHAROS INDONESIA"
+  },
+  {
+    "id": 2,
+    "Name": "PT. SOHO INDUSTRI PHARMASI"
+  },
+  {
+    "id": 3,
+    "Name": "PT. Otsuka Indonesia"
+  },
+  {
+    "id": 4,
+    "Name": "PT.Bayer Schering Pharma"
+  },
+  {
+    "id": 5,
+    "Name": "PT. Novell Pharmaceutical Laboratories"
+  },
+  {
+    "id": 6,
+    "Name": "PT. PIM Pharmaceuticals"
+  },
+  {
+    "id": 7,
+    "Name": "PT. Fahrenheit"
+  },
+  {
+    "id": 8,
+    "Name": "DKT Indonesia"
+  },
+  {
+    "id": 9,
+    "Name": "PT. Megasurya Mas"
+  },
+  {
+    "id": 10,
+    "Name": "PT. Phapros Tbk"
+  },
+  {
+    "id": 11,
+    "Name": "PT. KIMIA FARMA"
+  },
+  {
+    "id": 12,
+    "Name": "PT.Pacific Image International"
+  },
+  {
+    "id": 13,
+    "Name": "PT. Dexa Medica"
+  },
+  {
+    "id": 14,
+    "Name": "PT. Astra Zeneca"
+  },
+  {
+    "id": 15,
+    "Name": "PT. Ethica Industri Farmasi"
+  },
+  {
+    "id": 16,
+    "Name": "PT. Konimex"
+  },
+  {
+    "id": 17,
+    "Name": "PT. Pfizer Indonesia"
+  },
+  {
+    "id": 18,
+    "Name": "PT. Gracia Pharmindo"
+  },
+  {
+    "id": 19,
+    "Name": "PT. Taisho Pharmaceutical Indonesia tbk"
+  },
+  {
+    "id": 20,
+    "Name": "PT. Meiji Indonesia"
+  },
+  {
+    "id": 21,
+    "Name": "PT. Yarindo Farmatama Serang"
+  },
+  {
+    "id": 22,
+    "Name": "PT. Hexpharm Jaya Laboratories"
+  },
+  {
+    "id": 23,
+    "Name": "PT. Actavis Indonesia"
+  },
+  {
+    "id": 24,
+    "Name": "PT. Mahakam Beta Farma"
+  },
+  {
+    "id": 25,
+    "Name": "CV. Ai Husada Pharma"
+  },
+  {
+    "id": 26,
+    "Name": "PT. Sanbe Farma"
+  },
+  {
+    "id": 27,
+    "Name": "PT. Sampharindo Perdana"
+  },
+  {
+    "id": 28,
+    "Name": "PT. Terumo Indonesia"
+  },
+  {
+    "id": 29,
+    "Name": "PT. BSN Medical Indonesia"
+  },
+  {
+    "id": 30,
+    "Name": "PT. Husada"
+  },
+  {
+    "id": 31,
+    "Name": "Pt. Medicare"
+  },
+  {
+    "id": 32,
+    "Name": "PT. Ganex"
+  },
+  {
+    "id": 33,
+    "Name": "PT. Royal"
+  },
+  {
+    "id": 34,
+    "Name": "PT. Onemed"
+  },
+  {
+    "id": 35,
+    "Name": "PT. Varia Sekata(Varse)"
+  },
+  {
+    "id": 36,
+    "Name": "PT. Bima Mitra Farma"
+  },
+  {
+    "id": 37,
+    "Name": "PT. Ifars Pharmaceutical Laboratories"
+  },
+  {
+    "id": 38,
+    "Name": "PT. Darya Varia"
+  },
+  {
+    "id": 39,
+    "Name": "PT. Tanabe Indonesia"
+  },
+  {
+    "id": 40,
+    "Name": "PT. Merck Tbk"
+  },
+  {
+    "id": 41,
+    "Name": "PT. Sejahtera Lestari Farma"
+  },
+  {
+    "id": 42,
+    "Name": "PT. Samco Farma"
+  },
+  {
+    "id": 43,
+    "Name": "PT. DH"
+  },
+  {
+    "id": 44,
+    "Name": "PT. Itrasal Pharmaceutical Industries"
+  },
+  {
+    "id": 45,
+    "Name": "PT. Mecosin Indonesia"
+  },
+  {
+    "id": 46,
+    "Name": "PT. Cendo Pharmaceutical Industries"
+  },
+  {
+    "id": 47,
+    "Name": "PT. Hufa"
+  },
+  {
+    "id": 48,
+    "Name": "PT. Ciubros Farma"
+  },
+  {
+    "id": 49,
+    "Name": "PT. Harsen Laboratories"
+  },
+  {
+    "id": 50,
+    "Name": "PT. Armoxindo Farma"
+  },
+  {
+    "id": 51,
+    "Name": "PT. SYDNA FARMA"
+  },
+  {
+    "id": 52,
+    "Name": "MSD Groups Indonesia"
+  },
+  {
+    "id": 53,
+    "Name": "PT. Janssen Cilag"
+  },
+  {
+    "id": 54,
+    "Name": "PT. Galenium Pharmasia Laboratories"
+  },
+  {
+    "id": 55,
+    "Name": "PT. Otto Pharmaceutical Industries"
+  },
+  {
+    "id": 56,
+    "Name": "PT. Hisamitsu Pharma Indonesia"
+  },
+  {
+    "id": 57,
+    "Name": "PT. Indo Farma"
+  },
+  {
+    "id": 58,
+    "Name": "PT. Brataco"
+  },
+  {
+    "id": 59,
+    "Name": "PT. Novapharin"
+  },
+  {
+    "id": 60,
+    "Name": "PT. Interbat"
+  },
+  {
+    "id": 61,
+    "Name": "PT. Merci"
+  },
+  {
+    "id": 62,
+    "Name": "PT. NIcholas Laboratories Indonesia"
+  },
+  {
+    "id": 63,
+    "Name": "PT. Lucas Djaja Pharmaceutical Industry"
+  },
+  {
+    "id": 64,
+    "Name": "PT. Phyto Kemo Agung"
+  },
+  {
+    "id": 65,
+    "Name": "PT. Sandoz Indonesia"
+  },
+  {
+    "id": 66,
+    "Name": "PT. Kodak"
+  },
+  {
+    "id": 67,
+    "Name": "PT. Medikon Prima Laboratories"
+  },
+  {
+    "id": 68,
+    "Name": "PT. Abbott Indonesia"
+  },
+  {
+    "id": 69,
+    "Name": "PT. Medifarma Laboratories"
+  },
+  {
+    "id": 70,
+    "Name": "PT. Mutifa Pharmaceutical Laboratoties"
+  },
+  {
+    "id": 71,
+    "Name": "PT. Kalbe Farma"
+  },
+  {
+    "id": 72,
+    "Name": "PT. Glaxosmithkline Indonesia"
+  },
+  {
+    "id": 73,
+    "Name": "Gloria Origita Cosmetics"
+  },
+  {
+    "id": 74,
+    "Name": "PT. Sari Enesis Indah"
+  },
+  {
+    "id": 75,
+    "Name": "PT. Metiska Farma"
+  },
+  {
+    "id": 76,
+    "Name": "PT. Beta Farma"
+  },
+  {
+    "id": 77,
+    "Name": "PT. Johnson & Johnson"
+  },
+  {
+    "id": 78,
+    "Name": "PT. Rohto Laboratories"
+  },
+  {
+    "id": 79,
+    "Name": "P.T, Marguna Tarulata APK Farma"
+  },
+  {
+    "id": 80,
+    "Name": "PT. Nufarindo Pharmaceutical Laboratories"
+  },
+  {
+    "id": 81,
+    "Name": "PT. Tunggal Idaman Abadi"
+  },
+  {
+    "id": 82,
+    "Name": "PT. Surya Dermato Laboratories"
+  },
+  {
+    "id": 83,
+    "Name": "PT. Transfarma Medica Indah"
+  },
+  {
+    "id": 84,
+    "Name": "PT.Boehringer Ingelheim INdonesia"
+  },
+  {
+    "id": 85,
+    "Name": "Heptasan Unggul"
+  },
+  {
+    "id": 86,
+    "Name": "PT. Kembang Bulan Farma"
+  },
+  {
+    "id": 87,
+    "Name": "PT. Combiphar"
+  },
+  {
+    "id": 88,
+    "Name": "PT. Meprofarm"
+  },
+  {
+    "id": 89,
+    "Name": "PT. Errita Pharma"
+  },
+  {
+    "id": 90,
+    "Name": "First Medipharma"
+  },
+  {
+    "id": 91,
+    "Name": "PT. Erela"
+  },
+  {
+    "id": 92,
+    "Name": "PT. Graha Farma"
+  },
+  {
+    "id": 93,
+    "Name": "PT. Intercallin"
+  },
+  {
+    "id": 94,
+    "Name": "PT. Dragon Prima Farma"
+  },
+  {
+    "id": 95,
+    "Name": "PT. Takeda Indonesia"
+  },
+  {
+    "id": 96,
+    "Name": "PT. Coronet Crown"
+  },
+  {
+    "id": 97,
+    "Name": "PT. Erlimpex"
+  },
+  {
+    "id": 98,
+    "Name": "PT.  Danpac Farma"
+  },
+  {
+    "id": 99,
+    "Name": "Mugi Laboratories"
+  },
+  {
+    "id": 100,
+    "Name": "PT. Molex Ayus"
+  },
+  {
+    "id": 101,
+    "Name": "Wondfo Biotech Co. Ltd"
+  },
+  {
+    "id": 102,
+    "Name": "PT. Global Multi Pharmalab"
+  },
+  {
+    "id": 103,
+    "Name": "PT Mersifarma Tirmaku Mercusana"
+  },
+  {
+    "id": 104,
+    "Name": "PT. Sterling Produst Indonesia"
+  },
+  {
+    "id": 105,
+    "Name": "PT. Softex Indonesia"
+  },
+  {
+    "id": 106,
+    "Name": "PT. Tulus Indojaya"
+  },
+  {
+    "id": 107,
+    "Name": "PT. Sinde Budi Sentosa"
+  },
+  {
+    "id": 108,
+    "Name": "M.A. Mawn"
+  },
+  {
+    "id": 109,
+    "Name": "PT. Zenith Pharmaceutical"
+  },
+  {
+    "id": 110,
+    "Name": "PT. Balatif Pharmaceutical"
+  },
+  {
+    "id": 111,
+    "Name": "PT. Berlico Mulia Farma"
+  },
+  {
+    "id": 112,
+    "Name": "PT. Bernofarm Pharmaceutical"
+  },
+  {
+    "id": 113,
+    "Name": "PT. Air Mancur"
+  },
+  {
+    "id": 114,
+    "Name": "PT.Landson"
+  },
+  {
+    "id": 115,
+    "Name": "PT. Sido Muncul"
+  },
+  {
+    "id": 116,
+    "Name": "PT. Bio Axion Healtindo"
+  },
+  {
+    "id": 117,
+    "Name": "PT. Pharma Laboratories"
+  },
+  {
+    "id": 118,
+    "Name": "PT. Triyasa Nagamas Farma"
+  },
+  {
+    "id": 119,
+    "Name": "PT. Novartis Indonesia"
+  },
+  {
+    "id": 120,
+    "Name": "PT. Ever Beauty Corporation"
+  },
+  {
+    "id": 121,
+    "Name": "PT. Sinergi Adimitra Jaya"
+  },
+  {
+    "id": 122,
+    "Name": "PT. Citra Usaha Lamindo"
+  },
+  {
+    "id": 123,
+    "Name": "PT. Sanofi Aventis"
+  },
+  {
+    "id": 124,
+    "Name": "PT. Nellco"
+  },
+  {
+    "id": 125,
+    "Name": "PT. Corsa Industries Ltd"
+  },
+  {
+    "id": 126,
+    "Name": "PT. Saras Subur Abadi"
+  },
+  {
+    "id": 127,
+    "Name": "PT. Ultra Sakti"
+  },
+  {
+    "id": 128,
+    "Name": "CV. Tri Tunggal Cipta Anugerah"
+  },
+  {
+    "id": 129,
+    "Name": "PT. Bufa Aneka"
+  },
+  {
+    "id": 130,
+    "Name": "Zambon"
+  },
+  {
+    "id": 131,
+    "Name": "Tempo"
+  },
+  {
+    "id": 132,
+    "Name": "One Med"
+  },
+  {
+    "id": 133,
+    "Name": "PT. Perdana Sakti Indonesia"
+  },
+  {
+    "id": 134,
+    "Name": "PT. Guardian Pharmatama"
+  },
+  {
+    "id": 135,
+    "Name": "Biotechnology, co.Ltd"
+  },
+  {
+    "id": 136,
+    "Name": "LumiQuick Diagnostic,Inc-USA"
+  },
+  {
+    "id": 137,
+    "Name": "PT. Citra Deli Kreasitama"
+  },
+  {
+    "id": 138,
+    "Name": "PT. Schering-Plough Indonesia Tbk"
+  },
+  {
+    "id": 139,
+    "Name": "PT.Nutrifood Indonesia"
+  },
+  {
+    "id": 140,
+    "Name": "PT. Inti Inter Pasifik"
+  },
+  {
+    "id": 141,
+    "Name": "PT. Quantum Lab"
+  },
+  {
+    "id": 142,
+    "Name": "PT. Ikapharmindo Putramas"
+  },
+  {
+    "id": 143,
+    "Name": "PT. AFI FARMA"
+  },
+  {
+    "id": 144,
+    "Name": "PT. Alcon Laboratories"
+  },
+  {
+    "id": 145,
+    "Name": "PT. Bio Life Medilab"
+  },
+  {
+    "id": 146,
+    "Name": "PT. Holi Pharma"
+  },
+  {
+    "id": 147,
+    "Name": "PT. Seles Global Farma"
+  },
+  {
+    "id": 148,
+    "Name": "PT. Yekatria Farma"
+  },
+  {
+    "id": 149,
+    "Name": "PT. Triman Pharmaceutical Industry"
+  },
+  {
+    "id": 150,
+    "Name": "PT. Presenius Kabi Chombipar"
+  },
+  {
+    "id": 151,
+    "Name": "PT. Sumber Energy Kemenkes RI"
+  },
+  {
+    "id": 152,
+    "Name": "PT. Promed Rahardjo Farmasi Industri"
+  },
+  {
+    "id": 153,
+    "Name": "PT. Pyridam Farma Tbk"
+  },
+  {
+    "id": 154,
+    "Name": "PT. Rama Emerland"
+  },
+  {
+    "id": 155,
+    "Name": "PT. Jayamas Medika Industry"
+  },
+  {
+    "id": 156,
+    "Name": "PT. Perseroan Dagangdan"
+  },
+  {
+    "id": 157,
+    "Name": "PT. SANO GRATIA FARMA"
+  },
+  {
+    "id": 158,
+    "Name": "PT. Emjebe Pharma"
+  },
+  {
+    "id": 159,
+    "Name": "PT. Meccaya"
+  },
+  {
+    "id": 160,
+    "Name": "PT. Tawon Jaya Makassar"
+  },
+  {
+    "id": 161,
+    "Name": "PT. Jogja Natural Herbal"
+  },
+  {
+    "id": 162,
+    "Name": "PT. Fresenius Kabi Combiphar"
+  },
+  {
+    "id": 163,
+    "Name": "PT. Industri Jamu Borobudur"
+  },
+  {
+    "id": 164,
+    "Name": "PT. Infarmind Farmasi Industry"
+  },
+  {
+    "id": 165,
+    "Name": "PT. PANAMA GLOBAL MANDIRI"
+  },
+  {
+    "id": 166,
+    "Name": "PT. Infion Pharmaceutical"
+  },
+  {
+    "id": 167,
+    "Name": "PT. SUNTHI SEPURI"
+  },
+  {
+    "id": 168,
+    "Name": "PT. Steril Medika Indonesia"
+  },
+  {
+    "id": 169,
+    "Name": "PT. Solas"
+  },
+  {
+    "id": 170,
+    "Name": "PT. Dami Sariwana"
+  },
+  {
+    "id": 171,
+    "Name": "Beauty Kasatama CV"
+  },
+  {
+    "id": 172,
+    "Name": "PT. Satoria Aneka Industri"
+  },
+  {
+    "id": 173,
+    "Name": "PT. Tunggal Sila Farma"
+  },
+  {
+    "id": 174,
+    "Name": "PT. Reckitt Benckiser"
+  },
+  {
+    "id": 175,
+    "Name": "PT. WYN Medfarma Indonesia"
+  },
+  {
+    "id": 176,
+    "Name": "PT. Minorock Mandiri"
+  },
+  {
+    "id": 177,
+    "Name": "PT. Etica Sari Pratama"
+  },
+  {
+    "id": 178,
+    "Name": "PT. Krisbow Indonesia"
+  },
+  {
+    "id": 179,
+    "Name": "PT. Arista Latindo"
+  },
+  {
+    "id": 180,
+    "Name": "PT. Klip Plastik Indonesia"
+  },
+  {
+    "id": 181,
+    "Name": "PT. Selpasindo Pharco"
+  },
+  {
+    "id": 182,
+    "Name": "PT. Aghar Dipta Sanjaya"
+  },
+  {
+    "id": 183,
+    "Name": "PT.Nulab Pharmaceutical Indonesia"
+  },
+  {
+    "id": 184,
+    "Name": "PT. Imfarmind Farmasi Industri"
+  },
+  {
+    "id": 185,
+    "Name": "PT. Madu Murni Nusantara"
+  },
+  {
+    "id": 186,
+    "Name": "PT. Tirta Sarana Sukses"
+  },
+  {
+    "id": 187,
+    "Name": "PT. UNVERSAL PHARMACEUTICAL INDUSTRIES"
+  },
+  {
+    "id": 188,
+    "Name": "PT. Ultra Prima Abadi"
+  },
+  {
+    "id": 189,
+    "Name": "PT. Deltamed Laboratories"
+  },
+  {
+    "id": 190,
+    "Name": "PT. Eli Lilly"
+  },
+  {
+    "id": 191,
+    "Name": "PT. Irawan Djaja Agung"
+  },
+  {
+    "id": 192,
+    "Name": "Alexander"
+  },
+  {
+    "id": 194,
+    "Name": "Alexander"
+  },
+  {
+    "id": 195,
+    "Name": "ALFA KUMALA"
+  },
+  {
+    "id": 196,
+    "Name": "ARTOIS PHARMACEUTICAL INDUSTRY"
+  },
+  {
+    "id": 197,
+    "Name": "PT. INDO ABADI SARIMAKMUR"
+  },
+  {
+    "id": 198,
+    "Name": "PT. Latexindo Tobaperkasa"
+  },
+  {
+    "id": 199,
+    "Name": "PT. Intijaya Meta Ratna Pharmindo"
+  },
+  {
+    "id": 200,
+    "Name": "PT. Widatra Bhakti"
+  },
+  {
+    "id": 201,
+    "Name": "PT. Bison Jaya Lestari"
+  },
+  {
+    "id": 202,
+    "Name": "PT. Sariwangi Sukses Sejahtera"
+  },
+  {
+    "id": 203,
+    "Name": "PT. Eagle Indo Pharma"
+  },
+  {
+    "id": 204,
+    "Name": "PT. Saka Farma Laboratories"
+  },
+  {
+    "id": 205,
+    "Name": "PT. Trifa Raya Laboratories"
+  },
+  {
+    "id": 206,
+    "Name": "PT. Kobayashi Pharmaceutical Indonesia"
+  },
+  {
+    "id": 207,
+    "Name": "Montavit Pharma"
+  },
+  {
+    "id": 208,
+    "Name": "PT. Nutricia Medical Nutrition"
+  },
+  {
+    "id": 209,
+    "Name": "PT. Beiersdorf Indonesia"
+  },
+  {
+    "id": 210,
+    "Name": "PT. Prima Medika Laboratories"
+  },
+  {
+    "id": 211,
+    "Name": "PT. Carus Pharma"
+  },
+  {
+    "id": 212,
+    "Name": "Sofibel Laboratories Fumouze"
+  },
+  {
+    "id": 213,
+    "Name": "PT. Helmigs Prima Sejahtera"
+  }
+]

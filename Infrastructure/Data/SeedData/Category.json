@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "Name": "Alkes (Alat Kesehatan)"
+  },
+  {
+    "ID": 2,
+    "Name": "Consumer Goods (Jamu dan Vitamin)"
+  },
+  {
+    "ID": 3,
+    "Name": "KONSUMER"
+  },
+  {
+    "ID": 4,
+    "Name": "Obat Bebas (Hijau)"
+  },
+  {
+    "ID": 5,
+    "Name": "Obat Bebas Terbatas (Biru)"
+  },
+  {
+    "ID": 6,
+    "Name": "Obat Keras (Merah)"
+  },
+  {
+    "ID": 7,
+    "Name": "Obat-obat Tertentu"
+  },
+  {
+    "ID": 8,
+    "Name": "Prekursor"
+  },
+  {
+    "ID": 9,
+    "Name": "Psikotropika"
+  }
+]
