@@ -20,7 +20,14 @@ namespace Infrastructure.Data
                 .Include(p => p.ProductFactory)
                 .FirstOrDefaultAsync(p => p.Id == id);
         }
-
+        public async Task<IReadOnlyList<Product>> GetProductsAsync()
+        {
+            return await _context.Products
+                .Where(p => p.isEnabled == true)
+                .Include(p => p.ProductCategory)
+                .Include(p => p.ProductFactory)
+                .ToListAsync();
+        }
         public async Task<IReadOnlyList<ProductCategory>> GetProductCategoriesAsync()
         {
             return await _context.ProductCategories.ToListAsync();
@@ -31,13 +38,6 @@ namespace Infrastructure.Data
             return await _context.ProductFactories.ToListAsync();
         }
 
-        public async Task<IReadOnlyList<Product>> GetProductsAsync()
-        {
-            return await _context.Products
-                .Where(p => p.isEnabled == true)
-                .Include(p => p.ProductCategory)
-                .Include(p => p.ProductFactory)
-                .ToListAsync();
-        }
+
     }
 }

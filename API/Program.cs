@@ -1,14 +1,9 @@
 using System;
-using System.Linq;
-using API.Errors;
 using API.Extensions;
 using API.Middleware;
-using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -35,23 +30,25 @@ if (app.Environment.IsDevelopment())
 
 app.UseStaticFiles();
 
+app.UseCors("CorsPolicy");
+
 app.UseAuthorization();
 
 app.MapControllers();
 
-using var scope = app.Services.CreateScope();
-var services = scope.ServiceProvider;
-var context = services.GetRequiredService<StoreContext>();
-var logger = services.GetRequiredService<ILogger<Program>>();
-try
-{
-    await context.Database.MigrateAsync();
-    await StoreContextSeed.SeedAsync(context);
-}
-catch (Exception ex)
-{
+// using var scope = app.Services.CreateScope();
+// var services = scope.ServiceProvider;
+// var context = services.GetRequiredService<StoreContext>();
+// var logger = services.GetRequiredService<ILogger<Program>>();
+// try
+// {
+//     await context.Database.MigrateAsync();
+//     await StoreContextSeed.SeedAsync(context);
+// }
+// catch (Exception ex)
+// {
 
-    logger.LogError(ex, "An error occured during migration");
-}
+//     logger.LogError(ex, "An error occured during migration");
+// }
 
 app.Run();
