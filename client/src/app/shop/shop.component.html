@@ -6,7 +6,7 @@
                 <option *ngFor="let sort of sortOptions" [value]="sort.value">{{sort.name}}</option>
             </select>
             <h5 class="text-warning ms-3">Categories</h5>
-            <ul class="list-group my-3">
+            <ul class="list-group my-3" style="cursor: pointer;">
                 <li class="list-group-item" *ngFor="let category of categories"
                     [class.active]="category.id === shopParams.categoryId" 
                     [value]="category.id"
