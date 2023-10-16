@@ -5,7 +5,7 @@
             <select class="form-select mb-4" (change)="onSortSelected($event)">
                 <option *ngFor="let sort of sortOptions" [value]="sort.value">{{sort.name}}</option>
             </select>
-            <h5 class="text-warning ms-3">Categories</h5>
+            <h5 class="text-warning ms-3">Category</h5>
             <ul class="list-group my-3" style="cursor: pointer;">
                 <li class="list-group-item" *ngFor="let category of categories"
                     [class.active]="category.id === shopParams.categoryId" 
@@ -13,7 +13,7 @@
                     (click)="onCategorySelected(category.id)"
                     >{{category.name}}</li>
             </ul>
-            <h5 class="text-warning ms-3">Factories</h5>
+            <h5 class="text-warning ms-3">Factory</h5>
             <select name="factory" class="form-select mb-4" (change)="onFactorySelected($event)">
                 <option *ngFor="let factory of factories" 
                 [value]="factory.id"

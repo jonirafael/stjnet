@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+Icon
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -478,3 +479,26 @@ $RECYCLE.BIN/
 API/appsettings.json
 API/stjnet.db-shm
 API/stjnet.db-wal
+Icon
+API/Icon
+API/Controllers/Icon
+API/Dtos/Icon
+API/Errors/Icon
+API/Extensions/Icon
+API/Helpers/Icon
+API/Middleware/Icon
+API/Properties/Icon
+API/wwwroot/Icon
+API/wwwroot/images/Icon
+API/wwwroot/images/products/Icon
+client/src/environments/Icon
+client/ssl/Icon
+Core/Icon
+Core/Entities/Icon
+Core/Interfaces/Icon
+Core/Specification/Icon
+Infrastructure/Icon
+Infrastructure/Data/Icon
+Infrastructure/Data/Config/Icon
+Infrastructure/Data/Migrations/Icon
+Infrastructure/Data/SeedData/Icon
